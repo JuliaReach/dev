@@ -1,2 +1,1 @@
-# dev
-Development roadmap and team notes
+# Development roadmap and team notes
