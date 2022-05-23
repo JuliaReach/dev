@@ -9,6 +9,10 @@ Procedure to use the JuliaReach team calendar:
 
 The second step requires manual intervention to accept the meeting in the juliareach account, but since we have low traffic we don't need to automate it.
 
+## HackMD
+
+We have a space to share team notes in HackMD: https://hackmd.io/team/juliareach
+
 ## Github
 
 ### Purposes
