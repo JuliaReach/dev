@@ -1,4 +1,3 @@
-```julia
 using LazySets, Plots
 
 B = rand(BallInf)
@@ -43,4 +42,3 @@ concretize(E)
 plot(project(concretize(E), 1:2))
 
 # for 3d: it is possible to use Makie.jl ....
-```
