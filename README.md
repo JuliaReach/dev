@@ -28,6 +28,7 @@ julia> dev path-to-reachabilityanalysis-local-directory
 julia> using Pkg; Pkg.add(["AbstractTrees",
                            "BenchmarkTools",
                            "CDDLib",
+                           "DifferentialEquations",
                            "Distributions",
                            "Documenter",
                            "Expokit",
