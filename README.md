@@ -21,28 +21,30 @@ $ git clone git@github.com:JuliaReach/ReachabilityAnalysis.jl.git
 Then open a new environment and add the JuliaReach packages for development, as well as several dependencies that are needed to build tests and documentation.
 
 ```julia
-julia> dev path-to-lazysets-local-directory
+julia> using Pkg
 
-julia> dev path-to-reachabilityanalysis-local-directory
+julia> Pkg.develop(path="/home/mforets/JuliaReach/LazySets.jl")
 
-julia> using Pkg; Pkg.add(["AbstractTrees",
-                           "BenchmarkTools",
-                           "CDDLib",
-                           "DifferentialEquations",
-                           "Distributions",
-                           "Documenter",
-                           "Expokit",
-                           "ExponentialUtilities",
-                           "IntervalMatrices",
-                           "JLD2",
-                           "LaTeXStrings",
-                           "Literate",
-                           "Makie",
-                           "Optim",
-                           "Plots",
-                           "Polyhedra",
-                           "RecipesBase",
-                           "StaticArrays",
-                           "Symbolics",
-                           "TaylorModels"])
+julia> Pkg.develop(path="/home/mforets/JuliaReach/ReachabilityAnalysis.jl")
+
+julia> Pkg.add(["AbstractTrees",
+                "BenchmarkTools",
+                "CDDLib",
+                "DifferentialEquations",
+                "Distributions",
+                "Documenter",
+                "Expokit",
+                "ExponentialUtilities",
+                "IntervalMatrices",
+                "JLD2",
+                "LaTeXStrings",
+                "Literate",
+                "Makie",
+                "Optim",
+                "Plots",
+                "Polyhedra",
+                "RecipesBase",
+                "StaticArrays",
+                "Symbolics",
+                "TaylorModels"])
 ```
