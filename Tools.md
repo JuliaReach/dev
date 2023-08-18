@@ -36,6 +36,6 @@ We have been using gitter since the beginning, however, nowaydays zulip is more 
 
 There is no slack channel for JuliaReach or reachability analysis.
 
-## VSCode
+## Recommended editors
 
-VSCode is great.
+- https://www.julia-vscode.org/
