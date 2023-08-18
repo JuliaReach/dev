@@ -5,5 +5,7 @@ When: Each friday 16h00 CET
 
 ## 18/08/2023
 
-- State of https://juliareach.com/
+- State of the webpage (`juliareach.github.io/`)
+  - Last renewal (Marcelo): 20,16 € , sáb, 29 jul, 08:01
+  - `https://juliareach.com/` doesn't work, but `juliareach.com` works immediately, forwarding to `https://juliareach.github.io/`
 - Outstanding LazySets MRs 
