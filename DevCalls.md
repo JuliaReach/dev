@@ -1,6 +1,6 @@
 Where: meet.google.com/ouz-isma-vqi
 
-When: Each friday 16h00 CET
+When: [Each friday 16h00 CET](https://time.is/compare/1600_18_Aug_2023_in_CET/local)
   - [JuliaReach Google calendar link](https://calendar.google.com/calendar/u/2?cid=anVsaWFyZWFjaC5kZXZAZ21haWwuY29t)
 
 ## 18/08/2023
