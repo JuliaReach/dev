@@ -1,5 +1,6 @@
-WHERE: https://meet.google.com/aem-prcp-wbx
-WHEN: Each friday 16h30 CET
+Where: https://meet.google.com/aem-prcp-wbx
+
+When: Each friday 16h30 CET
 
 ## 18/08/2023
 
